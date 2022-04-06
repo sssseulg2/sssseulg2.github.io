@@ -1,9 +1,4 @@
----
-layout: null
-sitemap:
-  exclude: 'yes'
----
-User-agent: *
-Disallow:
-
-Sitemap: {{ site.url }}/sitemap.xml
+ User-agent: *
+ Allow: /
+ 
+ Sitemap: https://alpha-src.github.io/sitemap.xml
