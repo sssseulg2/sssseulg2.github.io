@@ -12,7 +12,10 @@ permalink: /about/
 ## Education
 - 동국대학교 컴퓨터공학전공 재학 중 (2018~)
 
-## Career
+## Thech stack
+- HTML, CSS, Javascript
+- Vue.js
+- node.js
 
-
-## Profile
+## Skills
+- SQL 개발자 (SQLD)
