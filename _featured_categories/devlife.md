@@ -10,7 +10,7 @@ slug: devlife
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  개발 일지
+  1일 1개발상식
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true

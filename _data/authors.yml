@@ -2,13 +2,13 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name: Sihyun Jung
-  email: fordevelop@pm.me
+  name: Lee Seulgi
+  email: iseulgizzz@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about: |
-    ꜰᴜᴛᴜʀᴇ ᴀɪ ᴇɴɢɪɴᴇᴇʀ - ᴊᴜɴɢꜱɪʀᴏᴏ
+    어쩌구 개발자
 
   # This photo will be used in the about section
   picture:
@@ -25,9 +25,9 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    instagram: juxgsiroo
-    github: alpha-src
-    email: fordevelop@pm.me
+    instagram: _seul_log
+    github: sssseulg2
+    email: iseulgizzz@gmail.com
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
