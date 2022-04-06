@@ -1,11 +1,11 @@
-# Welcome to alpha-src's Github Page
+# Welcome to seulgi's Github Page
 
 ![alpha-src][logo-white]
 ![alpha-src][logo-black]
 
 ***Apply Neat, Clean Theme to my github page***
 
-* [*My Github Page*](https://alpha-src.github.io)
+* [*My Github Page*](https://sssseulg2.github.io)
 * [*Markdown Editor*](https://stackedit.io/app#)
 * *Theme* : `Hydejack Jekyll Theme`
 
