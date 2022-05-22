@@ -57,10 +57,10 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title: FE
-    url: /devlife/
+  - title: FrontEnd 
+    url: /frontend/
   - title: else
-    url: /algorithm/
+    url: /else/
   - title: About
     url: /about/
 
