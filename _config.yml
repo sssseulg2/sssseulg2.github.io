@@ -57,9 +57,9 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title: 1일 1개발
+  - title: FE
     url: /devlife/
-  - title: 알고리즘
+  - title: else
     url: /algorithm/
   - title: About
     url: /about/
