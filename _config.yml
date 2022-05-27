@@ -57,8 +57,8 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title: FrontEnd 
-    url: /frontend/
+  - title: DevStudy 
+    url: /devstudy/
   - title: else
     url: /else/
   - title: About
