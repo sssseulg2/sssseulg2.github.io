@@ -11,10 +11,10 @@ permalink: /about/
 iseulgizzz@gmail.com
 
 💛 Github  
-https://github.com/sssseulg2
+<https://github.com/sssseulg2>
 
 💙 more  
-https://iseulgizzz.oopy.io/resume
+<https://iseulgizzz.oopy.io/>
 
 ## Education
 - 동국대학교 컴퓨터공학전공 재학 중 (2018~)
