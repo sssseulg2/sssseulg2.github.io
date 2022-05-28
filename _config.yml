@@ -59,8 +59,6 @@ author:
 menu:
   - title: DevStudy 
     url: /devstudy/
-  - title: And 
-    url: /and/
   - title: Else
     url: /else/
   - title: About
